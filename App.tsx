@@ -9,6 +9,7 @@ import Testimonials from './components/Testimonials';
 import FAQ from './components/FAQ';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
+import ContemplatedLetters from './components/ContemplatedLetters';
 
 const App: React.FC = () => {
   return (
@@ -18,6 +19,7 @@ const App: React.FC = () => {
         <Hero />
         <Features />
         <Services />
+        <ContemplatedLetters />
         <About />
         <Testimonials />
         <FAQ />

@@ -10,15 +10,15 @@ const About: React.FC = () => {
             <div className="absolute -top-10 -left-10 w-40 h-40 bg-gray-800/50 rounded-full blur-3xl"></div>
             <div className="relative z-10 border-[12px] border-white/5 rounded-3xl overflow-hidden">
               <img 
-                src="https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&q=80&w=800" 
+                src="https://f005.backblazeb2.com/file/landingpagesAutomatiza/imgi_16_290845862_784427002559674_6086080025318588244_n.jpeg" 
                 alt="Rafael Cruz Ribeiro" 
                 className="w-full h-full object-cover"
               />
             </div>
             {/* Experience badge */}
-            <div className="absolute -bottom-8 -right-8 bg-white text-black p-8 rounded-2xl shadow-2xl animate-float">
-              <div className="text-4xl font-bold">+10</div>
-              <div className="text-xs uppercase tracking-tighter font-bold opacity-60">Anos de Mercado</div>
+            <div className="absolute -bottom-10 -right-8 bg-white text-black p-8 rounded-2xl shadow-2xl animate-float">
+              <div className="text-3xl font-bold">+100</div>
+              <div className="text-xs uppercase tracking-tighter font-bold opacity-60">Especialista em Consórcio</div>
             </div>
           </div>
           
